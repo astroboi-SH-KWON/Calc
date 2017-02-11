@@ -1,0 +1,43 @@
+Button btAdd,btFindById,btFindByName,btList,btUpdate,btDelete
+
+
+
+EditText etNum1,etNum2;
+Button btPlus,btMinus,btMulti,btDivide,btMod,btEqual;
+TextView tvResult;
+
+
+
+
+JDK + eclipse ==> JAVA
+
+JDK + Android Studio(SDK + AVD)
+Genymotion : Emulator (AVD 대신)
+
+기존 환경 설정 체크
+cmd open
+java -version
+
+win+break ==> 64bit/8 G RAM
+
+개발환경 설정
+  WEB 개발
+       JDK + Eclipse
+
+  APP 개발
+       JDK
+       Android Studio(SDK + AVD)
+       Genymotion : Emulator (AVD 대신)
+
+
+C:\Users\hb2003\AppData\Local\Android\sdk1
+
+
+단축키
+
+CAS [ Ctrl + Alt + s ]
+
+shift F6 rename
+
+alt ins : getter&setter
+
